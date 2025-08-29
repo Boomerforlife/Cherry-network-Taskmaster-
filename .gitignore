@@ -1,0 +1,53 @@
+# --- Python / Django ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env
+.env.*
+
+# Django
+backend/db.sqlite3
+backend/media/
+backend/staticfiles/
+
+# Migrations cache (keep migration files, ignore pyc)
+*/migrations/__pycache__/
+
+# --- Node / Expo ---
+node_modules/
+frontend/node_modules/
+frontend/taskmaster-expo/node_modules/
+
+# Expo / Metro
+.expo/
+.expo-shared/
+.expo-dev/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Lock files (keep these):
+#!package-lock.json
+#!yarn.lock
+#!pnpm-lock.yaml
+
+# --- OS / Editor ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# --- Android / iOS (none checked in for Expo managed) ---
+android/
+ios/
+
+# --- Misc ---
+coverage/
+*.iml
