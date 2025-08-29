@@ -126,7 +126,9 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ## 📝 Creator's Note
 
-This application was developed under a tight deadline, so several planned features—like AI-powered suggestions and a full calendar view—are not yet implemented. However, the core functionality works, and the app has a clean, seamless UI. I'm excited to continue learning more about app development. Thank you for your interest\!
+This application was developed under a tight deadline, so several planned features—like AI-powered suggestions and a full calendar view—are not yet implemented. However, the core functionality works, and the app has a clean, seamless UI. I'm excited to continue learning more about app development with your club. Thank you for your interest\!
+
 Vighnesh Singh Dhanai 
 RA2411026010352
+
 
